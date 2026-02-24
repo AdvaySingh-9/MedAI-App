@@ -89,7 +89,7 @@ Human judgment remains central to all decisions.
 
 ## 📂 Repository Structure
 
-- `notebook.ipynb` – Main implementation  
+- `medai-app.ipynb` – Main implementation  
 - `README.md` – Project documentation  
 
 ---
